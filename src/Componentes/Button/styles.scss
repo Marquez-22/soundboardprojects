@@ -1,0 +1,14 @@
+.Button{
+     background: rebeccapurple;
+     color:white;
+     padding:1rem 3rem;
+     border:0;
+     font-family: 'Poppins', sans-serif;
+     font-weight: 600;
+     font-size: 1.5rem;
+     width: 100%;
+     cursor: pointer;
+     &:hover{
+        background: hsl(270, 50%, 30%);
+     }
+}
